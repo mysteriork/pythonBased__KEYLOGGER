@@ -51,3 +51,14 @@ Tested in a sandboxed virtual environment and a local machine:
    ![image](https://github.com/user-attachments/assets/4488938b-ae3c-4791-8a0e-f792e65df013)
 
 
+📄 License
+
+This project is licensed under the MIT License. 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 📧 Contact
+
+Created by @mysteriork -- RACHIT KUMAR
+
+For inquiries, open an issue or drop a message via GitHub.
+
+
