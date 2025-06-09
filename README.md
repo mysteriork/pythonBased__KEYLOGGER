@@ -51,6 +51,10 @@ Tested in a sandboxed virtual environment and a local machine:
    ![image](https://github.com/user-attachments/assets/4488938b-ae3c-4791-8a0e-f792e65df013)
 
 
+##### ⚠️ Disclaimer
+
+This project is created for educational and ethical research purposes only. It must not be used for unauthorized surveillance or malicious activities. The developer is not responsible for any misuse of this code. Always use such tools in a secure, sandboxed environment with proper consent.
+
 📄 License
 
 This project is licensed under the MIT License. 🤝 Contributing
