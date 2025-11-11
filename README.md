@@ -40,28 +40,35 @@ Tested in a sandboxed virtual environment and a local machine:
    ```bash
    git clone https://github.com/mysteriork/pythonBased__KEYLOGGER
 
+---
 
-## DIAGRAMS AND UI :
+# DIAGRAMS AND UI 🚀
 
-1) workflow diagram
+## 1) workflow diagram : 📊
    ![image](https://github.com/user-attachments/assets/28ba164d-5c47-4674-a01f-d3bceb3d2a9c)
 
+---
 
-3) UI AND UX .
+## 3) UI AND UX : 🎨
    ![image](https://github.com/user-attachments/assets/4488938b-ae3c-4791-8a0e-f792e65df013)
 
 
-##### ⚠️ Disclaimer
+---
+
+#### ⚠️ Disclaimer
 
 This project is created for educational and ethical research purposes only. It must not be used for unauthorized surveillance or malicious activities. The developer is not responsible for any misuse of this code. Always use such tools in a secure, sandboxed environment with proper consent.
 
-📄 License
+---
+
+## License 🪪
 
 This project is licensed under the MIT License. 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 📧 Contact
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
+### Send Mail to callmerachit145@gmail.com 📧
 
-Created by @mysteriork -- RACHIT KUMAR
+## Created by @mysteriork -- RACHIT KUMAR 🧑‍💻
 
 For inquiries, open an issue or drop a message via GitHub.
 
